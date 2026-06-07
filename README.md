@@ -102,7 +102,7 @@ if __name__ == "__main__":
     agent.display_performance()
 ```
 ## OUTPUT
-![alt text](image.png)
+<img width="651" height="383" alt="image" src="https://github.com/user-attachments/assets/e2bf7ad5-6351-4ed9-9961-f486d299bdcf" />
 
 ## RESULT
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
